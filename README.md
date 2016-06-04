@@ -1,8 +1,22 @@
-# Remove html element module,
+# Remove html element module
+
+## About
 
 npm module for removing html element from .html files
 
 Based on [jsdom module](https://github.com/tmpvar/jsdom)
+
+## Install
+
+`npm install remove-html-element`
+
+or
+
+`npm install --save remove-html-element`
+
+or
+
+`npm install --save-dev remove-html-element`
 
 ## Usage
 
