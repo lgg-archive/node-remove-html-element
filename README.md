@@ -41,7 +41,7 @@ var rem  = require('remove-html-element');
 rem('file.html', ['#remove-this-selector', '.and-this']);
 ```
 
-### Remove 1 selector in few files
+### Remove same selectors in few files
 
 ``` js
 var rem  = require('remove-html-element');
@@ -51,7 +51,7 @@ rem([
 ], '#remove-this-selector-in-all-files');
 ```
 
-### Remove few selectors in few files
+### Remove different selectors in few files
 
 ``` js
 var rem  = require('remove-html-element');
@@ -63,6 +63,7 @@ rem([
 
 ## ToDo
 
+* add tests
 * save to another file
 * check if file exist
 * fix empty lines instead of removed element
