@@ -49,6 +49,7 @@ rem([
 
 ## ToDo
 
+* save to another file
 * check if file exist
 * fix empty lines instead of removed element
 * check if selector found
