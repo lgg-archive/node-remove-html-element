@@ -1,6 +1,6 @@
 {
   "name": "remove-html-element",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm module for removing html element from .html files",
   "main": "index.js",
   "scripts": {
