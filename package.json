@@ -1,0 +1,30 @@
+{
+  "name": "remove-html-element",
+  "version": "1.0.0",
+  "description": "npm module for removing html element from .html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleguga/node-remove-html-element.git"
+  },
+  "keywords": [
+    "remove",
+    "html",
+    "element",
+    "html",
+    "remove"
+  ],
+  "author": "littleguga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littleguga/node-remove-html-element/issues"
+  },
+  "homepage": "https://github.com/littleguga/node-remove-html-element#readme",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "jsdom": "^9.2.1"
+  }
+}
