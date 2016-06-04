@@ -16,21 +16,21 @@ For finding html elements jQuery is used, docs for [selectors](https://api.jquer
 ### Remove 1 selector in 1 file
 
 ``` js
-var rem  = require('./remove-html-element');
+var rem  = require('remove-html-element');
 rem('file.html', '#remove-this-selector');
 ```
 
 ### Remove few selectors in 1 file
 
 ``` js
-var rem  = require('./remove-html-element');
+var rem  = require('remove-html-element');
 rem('file.html', ['#remove-this-selector', '.and-this']);
 ```
 
 ### Remove 1 selector in few files
 
 ``` js
-var rem  = require('./remove-html-element');
+var rem  = require('remove-html-element');
 rem([
     ['file.html'],
     ['file2.html']
@@ -40,7 +40,7 @@ rem([
 ### Remove few selectors in few files
 
 ``` js
-var rem  = require('./remove-html-element');
+var rem  = require('remove-html-element');
 rem([
     ['file.html', ['#remove-this-selector', '.and-this']],
     ['file2.html', ['#remove-this-selector2', '.and-this2']],
