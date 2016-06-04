@@ -49,6 +49,7 @@ rem([
 
 ## ToDo
 
+* check if file exist
 * fix empty lines instead of removed element
 * check if selector found
 * console coloring
