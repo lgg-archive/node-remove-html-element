@@ -2,6 +2,8 @@
 
 npm module for removing html element from .html files
 
+Based on [jsdom module](https://github.com/tmpvar/jsdom)
+
 ## Usage
 
 To fast test run:
