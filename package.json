@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/littleguga/node-remove-html-element#readme",
   "dependencies": {
-    "jquery": "^2.2.4",
+    "jquery": "^3.0.0",
     "jsdom": "^9.2.1"
   }
 }
